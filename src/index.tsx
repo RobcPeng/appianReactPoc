@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-import awsExports from "./aws-exports";
+import awsExports from "./aws-exports.js";
 import API from "@aws-amplify/api";
 
 ReactDOM.render(
