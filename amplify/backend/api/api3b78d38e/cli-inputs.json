@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/restitems": {
+      "name": "/restitems",
+      "lambdaFunction": "appianpocrest",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
