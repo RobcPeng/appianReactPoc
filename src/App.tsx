@@ -1,13 +1,9 @@
-import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>hi</p>
-      </header>
+      <button onClick={() => console.log("hi")}>hi</button>
     </div>
   );
 }
