@@ -1,15 +1,10 @@
 import "./App.css";
-import API from "@aws-amplify/api";
-import React from "react";
-import ReactDOM from "react-dom";
-import { VictoryBar } from "victory";
 import Amplify from "aws-amplify";
 import {
   AmplifyProvider,
   Authenticator,
   Button,
   Flex,
-  Image,
   Text,
   Theme,
   View,
